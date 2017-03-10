@@ -1,0 +1,30 @@
+.mynavbar {
+	text-align: center;
+	font-family: 'Baloo', cursive;
+    font-size: 70px;
+	background-color:transparent;
+	margin: 0cm 0cm 0cm 0cm;
+	width: 100%;
+	
+	
+}
+.navText{
+	font-size: 30px;
+	text-align: right;
+	font-family: 'Baloo', cursive;
+}
+ 
+body{
+	font-family: 'Baloo', cursive;
+	background-color: #8a005e;
+	background-image:url(../Images/background.jpg);
+	background-repeat: repeat;
+	background-size: cover;
+	padding: 0% 5%;		
+}
+
+
+
+
+
+
